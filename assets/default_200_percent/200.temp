@@ -1,0 +1,4 @@
+temp(
+   makeAsset(1)
+   asset=200 
+)
